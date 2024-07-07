@@ -1,0 +1,4 @@
+# Principios ZEN
+import this
+
+
