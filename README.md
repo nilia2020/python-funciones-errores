@@ -4,6 +4,6 @@
 
 ### operaciones con set
 
-- Creacion, tipos, agregar, borar y eliminar
+- Creacion, tipos, agregar, borrar y actualizar
 
 - Operaciones entre conjuntos
