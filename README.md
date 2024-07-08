@@ -8,6 +8,10 @@
 
 - Operaciones entre conjuntos
 
-## list comprenhensions
+## list comprenhension
 
 - [element for element in iterable if condition]
+
+## dictionary comprenhension
+
+{key:value for (key,value) in zip(iterables) if condition}
