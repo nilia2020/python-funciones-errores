@@ -2,7 +2,7 @@ def my_print(text):
     print(text * 2)
 
 
-my_print("Este es mi texto ")
+my_print("Este es mi texto \n")
 my_print("Gol de Argentina")
 
 
